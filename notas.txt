@@ -1,0 +1,6 @@
+------------ Estructura de control secuencial --------
+las instrucciones se ejecutan de arriba hacia abajo
+
+------------ Tipos de datos ----------
+Leguajes de tipado dinámico: JavaScript, Python
+Lenguajes de tipado estático: C, Java
